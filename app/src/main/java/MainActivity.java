@@ -66,15 +66,15 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //for team B
-    public void plus3(View view){
+    public void plus3b(View view){
         scoreB = scoreB + 3;
         displayForTeamB(scoreB);
     }
-    public void plus2(View view){
+    public void plus2b(View view){
         scoreB = scoreB + 2;
         displayForTeamB(scoreB);
     }
-    public void freethrow(View view){
+    public void freethrowb(View view){
         scoreB = scoreB + 1;
         displayForTeamB(scoreB);
     }
