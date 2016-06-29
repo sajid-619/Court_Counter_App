@@ -115,5 +115,3 @@ public class MainActivity extends ActionBarActivity {
         displayForTeamB(scoreTeamB);
     }
 }
-
-  
